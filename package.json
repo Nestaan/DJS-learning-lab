@@ -1,0 +1,12 @@
+{
+  "name": "bot2djs",
+  "version": "0.1.0",
+  "description": "Projet DiscordJS pour m'ameliorer sur ce dernier",
+  "main": "main.js",
+  "repository": "https://github.com/Nestaan/DJS-learning-lab.git",
+  "author": "Nestaan <nesta.contact@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
